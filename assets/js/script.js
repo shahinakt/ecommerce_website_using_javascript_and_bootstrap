@@ -8,7 +8,7 @@ async function loadProducts() {
     showLoading();
 
     try {
-        const response = await fetch("products.json");
+        const response = await fetch("../../data/products.json");
         if (!response.ok) throw new Error(`Server returned ${response.status}`);
 
         allProducts = await response.json();
