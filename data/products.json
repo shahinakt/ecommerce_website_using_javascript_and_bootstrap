@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Apple iPhone 15",
+    "category": "Mobiles",
+    "brand": "Apple",
+    "mrp": 79999,
+    "discountPrice": 72999,
+    "rating": 4.8,
+    "imageSrc": "media/products/img1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Samsung Galaxy S24",
+    "category": "Mobiles",
+    "brand": "Samsung",
+    "mrp": 74999,
+    "discountPrice": 69999,
+    "rating": 4.7,
+    "imageSrc": "media/products/img2.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Sony WH-1000XM5 Headphones",
+    "category": "Electronics",
+    "brand": "Sony",
+    "mrp": 34990,
+    "discountPrice": 28990,
+    "rating": 4.9,
+    "imageSrc": "media/products/img3.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Apple MacBook Air M3",
+    "category": "Laptops",
+    "brand": "Apple",
+    "mrp": 134900,
+    "discountPrice": 124900,
+    "rating": 4.9,
+    "imageSrc": "media/products/img4.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Nike Air Max 270",
+    "category": "Footwear",
+    "brand": "Nike",
+    "mrp": 12995,
+    "discountPrice": 9995,
+    "rating": 4.7,
+    "imageSrc": "media/products/img5.jpg"
+  },
+  {
+    "id": 6,
+    "title": "LG 43-inch 4K Smart TV",
+    "category": "Televisions",
+    "brand": "LG",
+    "mrp": 44990,
+    "discountPrice": 37990,
+    "rating": 4.6,
+    "imageSrc": "media/products/img6.jpg"
+  }
+]
